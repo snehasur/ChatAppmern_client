@@ -1,5 +1,4 @@
-// export const host = "https://chat-server-z6q5.onrender.com";
-export const host = "https://chat-appmern.vercel.app";
+export const host = "https://chat-server-z6q5.onrender.com";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
